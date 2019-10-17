@@ -1,2 +1,2 @@
 # git-learning
-git commands
+git commands learning sqashs
